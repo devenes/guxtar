@@ -1,1 +1,1 @@
-# guxtar is a clone project that teachs an HTML consept. 
+# guxtar is a clone project that teachs the scroll feature.
