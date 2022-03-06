@@ -1,2 +1,6 @@
-# guxtar is a clone project that teachs the scroll feature.
+# Guxtar
+
+guxtar is a clone project that teachs the scroll feature.
+
+
 
